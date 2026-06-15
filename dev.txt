@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 created new code in master file 1
+=======
+dev branch code. New code added
+
+wrong commit
+>>>>>>> 182166c (wrongcommit)
