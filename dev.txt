@@ -1,7 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 created new code in master file 1
 =======
 dev branch code. New code added
 
 wrong commit
 >>>>>>> 182166c (wrongcommit)
+=======
+dev branch code. New code added
+>>>>>>> d117318 (Revert "wrongcommit")
